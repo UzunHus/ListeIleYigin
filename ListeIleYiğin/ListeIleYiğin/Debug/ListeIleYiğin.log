@@ -1,0 +1,6 @@
+﻿  Kaynak.cpp
+  Yigit.cpp
+  Kod Üretiliyor...
+C:\Users\pc\source\repos\ListeIleYiğin\ListeIleYiğin\Yigit.cpp(34): warning C4715: 'Yigit::Pop': tüm denetim yolları değer döndürmez
+C:\Users\pc\source\repos\ListeIleYiğin\ListeIleYiğin\Yigit.cpp(25): warning C4715: 'Yigit::Top': tüm denetim yolları değer döndürmez
+  ListeIleYiğin.vcxproj -> C:\Users\pc\source\repos\ListeIleYiğin\Debug\ListeIleYiğin.exe
